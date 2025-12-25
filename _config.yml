@@ -5,7 +5,7 @@ author: "twh4t"
 email: "your@email.com"
 
 # GitHub Pages theme
-theme: jekyll-theme-hacker
+theme: minima
 markdown: kramdown
 
 # Social profiles
