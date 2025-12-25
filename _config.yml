@@ -1,0 +1,5 @@
+title: My Blog
+description: A professional GitHub Markdown blog
+author: Your Name
+theme: minima
+markdown: kramdown
