@@ -35,5 +35,3 @@ I write about security research, hacking techniques, defensive strategies, and i
 ## 📝 Latest Posts
 
 <!-- Minima automatically shows posts here -->
-
-➡️ **Read all posts** using the navigation menu
