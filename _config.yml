@@ -17,3 +17,4 @@ email: your@email.com
 # Optional: pagination
 paginate: 5
 paginate_path: "/page:num/"
+show_excerpts: false
