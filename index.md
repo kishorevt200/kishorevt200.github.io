@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: twh4t
 ---
 
 # 👋 Welcome to CyberSec Chronicles
